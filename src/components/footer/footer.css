@@ -1,0 +1,29 @@
+.footer{
+    background-color: silver;
+    padding: 1.5rem;
+    color: gray;
+}
+
+.des-name{
+    font-size: 1.2rem;
+}
+
+.footer-myname{
+    font-size: 1.5rem;
+    color: tomato;
+}
+
+.text-used{
+    font-size: 1.2rem;
+    padding-top: .3rem;
+    padding-bottom: .6rem;
+}
+
+.rightsres{
+    font-size: .9rem;
+}
+
+.my-icon2{
+    font-size: 2.5rem;
+    padding-left: 1rem;
+}
